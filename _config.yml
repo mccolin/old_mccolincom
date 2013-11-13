@@ -19,7 +19,8 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+#email:
+email_md5: 082dc3b9eeb0391f452e5cd88ddb5884
 
 # ----------------------- #
 #    Jekyll & Plugins     #
