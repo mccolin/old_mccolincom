@@ -1,2 +1,39 @@
-{% include custom/footer.html %}
-Design credit: <a href="http://shashankmehta.in/archive/2012/greyshade.html">Shashank Mehta</a>
+
+
+{% if site.email_md5 %}
+<img src="//www.gravatar.com/avatar/{{ site.email_md5 }}?s=64" alt="{{ site.author }}" style="width:64px;" class="profile-pic" /> <br/>
+{% endif %}
+
+<p id="copyright">&copy; 1983-{{site.time | date: "%Y"}} Colin McCloskey</p>
+
+<p id="powered-by">
+  Colin McCloskey is powered by <span data-powered-by="colin">prodigious snacking on Kit Kat bars</span>.
+  This website is powered by his wit,
+  <a href="http://heroku.com/" target="_blank">web servers of some variety</a>, and a spiffy
+  <a href="http://octopress.org/" target="_blank">flat-file blogging engine</a>.
+</p>
+
+<nav id="footer-nav">
+  <a href="/"><i class="fa fa-th-list"></i> Blog</a>
+  <a href="/about"><i class="fa fa-male"></i> About</a>
+  <a href="/hire"><i class="fa fa-usd"></i> Hire</a>
+  <a href="{{ root_url }}/blog/archives"><i class="fa fa-calendar-o"></i> Archive</a>
+</nav>
+
+<ul id="elsewhere">
+  {% if site.github_user %}
+  <a href="http://github.com/{{site.github_user}}"><i class="fa fa-lg fa-fw fa-github"></i></a>
+  {% endif %}
+  {% if site.instagram_user %}
+  <a href="http://instagram.com/{{site.instagram_user}}"><i class="fa fa-lg fa-fw fa-instagram"></i></a>
+  {% endif %}
+  {% if site.twitter_user %}
+  <a href="http://twitter.com/{{site.twitter_user}}"><i class="fa fa-lg fa-fw fa-twitter"></i></a>
+  {% endif %}
+  {% if site.facebook_user %}
+  <a href="http://facebook.com/{{site.facebook_user}}"><i class="fa fa-lg fa-fw fa-facebook-square"></i></a>
+  {% endif %}
+  {% if site.linkedin_user %}
+  <a href="http://www.linkedin.com/in/{{site.linkedin_user}}"><i class="fa fa-lg fa-fw fa-linkedin"></i></a>
+  {% endif %}
+</ul>

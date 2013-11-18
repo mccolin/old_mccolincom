@@ -1,5 +1,32 @@
-@import "base/color";
-@import "base/font";
-@import "base/layout";
-@import "base/typography";
-@import "base/utilities";
+//
+// McCOLIN
+// Base Stylesheet
+//
+
+/** COLORS * COLORS * COLORS * COLORS * COLORS * COLORS * COLORS * COLORS * COLORS **/
+
+$color-transparent: transparent;
+$color-white: #fff;
+$color-grey: #444;
+$color-light-grey: #666;
+$color-greyblue: #bbc;
+$color-gold: #ffd700;
+$color-cobalt: #6cf;
+$color-cobalt-trans: rgba(102,198,255,0.75);
+
+$color-body-bg: $color-white;
+$color-mast-bg: $color-greyblue;
+$color-content-bg: $color-transparent;
+$color-highlight: $color-gold;
+$color-link: #0a0;
+$color-link-hover: #00a;
+$color-nav-item-bg: $color-cobalt-trans;
+$color-nav-item-hover: $color-cobalt;
+
+
+/** FONTS * FONTS * FONTS * FONTS * FONTS * FONTS * FONTS * FONTS * FONTS * FONTS * FONTS **/
+
+$font-default: Arimo, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-heading: Rokkitt, Calibri, "Courier New", serif;
+$font-heading-weight: 700;
+$font-mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace;
