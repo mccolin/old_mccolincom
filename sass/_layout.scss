@@ -183,6 +183,17 @@ h3 {
   font-size: 0.8em;
 }
 
+.joblocation, .jobdates {
+  color: #666;
+  font-size: 80%;
+}
+.joblocation {
+  white-space: pre;
+}
+.jobdates {
+  float: right;
+}
+
 
 nav#pagination {
   padding: 2em 0;
