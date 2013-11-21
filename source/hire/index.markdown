@@ -53,11 +53,14 @@ multiple stacks and platforms looking to unite people with common interests and 
 
 ## Skillset
 
-**Preferred**: Ruby, Ruby on Rails, JavaScript, jQuery, node.js, XHR/AJAX, HTML5, CSS3, iOS SDK, Amazon Web Services, EC2, RDS, 
+{% comment %}**Preferred**:{% endcomment %}
+Ruby, Ruby on Rails, JavaScript, jQuery, node.js, XHR/AJAX, HTML5, CSS3, iOS SDK, Amazon Web Services, EC2, RDS, 
 S3, Heroku, MySQL, PostgreSQL, Memcached, Social Integration (Facebook, Twitter, foursquare, Instagram, others),
 Responsive Design, Mobile Web, Git, GitHub, Subversion, nginx, Apache, Mac OS X, Linux, UNIX, virtualization, 
 Design Patterns, Project Management, Small Team Leadership, Client Management
-{% comment %} **Also Capable**: C, C++, Java, JSP/Servlet, C#, .Net, PHP, Windows {% endcomment %}
+{% comment %}
+**Also Capable**: C, C++, Java, JSP/Servlet, C#, .Net, PHP, Windows 
+{% endcomment %}
 
 
 ## Education
@@ -67,7 +70,7 @@ Design Patterns, Project Management, Small Team Leadership, Client Management
  - Concentration: Large-scale Web and Data-backed Systems
  - Member: University Honors Program
 
-### M.Ed. Educational Technology (incomplete), [University of Delaware](http://udel.edu) <span class="joblocation">Newark, DE</span> <span class="jobdates">8/2005 &ndash; 5/2006</span>
+### M.Ed. Educational Technology (partial), [University of Delaware](http://udel.edu) <span class="joblocation">Newark, DE</span> <span class="jobdates">8/2005 &ndash; 5/2006</span>
  - Began coursework toward Master’s degree in Educational Technology
  - Postponed study to pursue career opportunity with CNET Networks, May 2006
 

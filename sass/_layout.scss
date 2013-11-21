@@ -46,7 +46,7 @@ a:hover {
   @media #{$large-media} {
     background-position: -1350px -275px;
     border-right: 1px solid #999;
-    box-shadow: 1px 0 3px rgba(0,0,0,0.5);
+    box-shadow: inset -2px 0 3px rgba(0,0,0,0.5);
     height: 100%;
     left: 0;
     margin-right: 2em;
@@ -60,7 +60,7 @@ a:hover {
     background-position: 0 30%;
     background-size: 100%;
     border-bottom: 1px solid #999;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    box-shadow: inset 0 -2px 3px rgba(0,0,0,0.5);
     clear: both;
     float: none;
     margin-bottom: 2em;
