@@ -2,7 +2,7 @@
 title: Stuffed Portobello Mushroom Caps
 author: Colin
 layout: post
-permalink: /2011/10/19/stuffed-portobello-mushroom-caps/
+# permalink: /2011/10/19/stuffed-portobello-mushroom-caps/
 aktt_notify_twitter:
   - yes
 categories:

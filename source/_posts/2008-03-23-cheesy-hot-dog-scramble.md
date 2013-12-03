@@ -2,7 +2,7 @@
 title: Cheesy Hot Dog Scramble
 author: Colin
 layout: post
-permalink: /2008/03/23/cheesy-hot-dog-scramble/
+# permalink: /2008/03/23/cheesy-hot-dog-scramble/
 aktt_tweeted:
   - 1
 categories:

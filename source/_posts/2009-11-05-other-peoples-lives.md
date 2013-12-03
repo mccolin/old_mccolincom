@@ -2,7 +2,7 @@
 title: 'Other People&#8217;s Lives'
 author: Colin
 layout: post
-permalink: /2009/11/05/other-peoples-lives/
+# permalink: /2009/11/05/other-peoples-lives/
 aktt_notify_twitter:
   - no
 categories:

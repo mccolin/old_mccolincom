@@ -2,7 +2,7 @@
 title: Things Michele Told Me
 author: Colin
 layout: post
-permalink: /2007/12/05/what-i-was-told-by-michele/
+# permalink: /2007/12/05/what-i-was-told-by-michele/
 categories:
   - Stuff
 tags:

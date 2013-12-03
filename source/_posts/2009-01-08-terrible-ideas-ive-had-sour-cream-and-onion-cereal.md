@@ -2,7 +2,7 @@
 title: 'Terrible Ideas I&#8217;ve Had: Sour Cream and Onion Cereal'
 author: Colin
 layout: post
-permalink: /2009/01/08/terrible-ideas-ive-had-sour-cream-and-onion-cereal/
+# permalink: /2009/01/08/terrible-ideas-ive-had-sour-cream-and-onion-cereal/
 aktt_notify_twitter:
   - no
 categories:

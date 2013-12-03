@@ -2,7 +2,7 @@
 title: Excitement versus Fear
 author: Colin
 layout: post
-permalink: /2007/11/28/excitement-versus-fear/
+# permalink: /2007/11/28/excitement-versus-fear/
 categories:
   - Theories
 tags:

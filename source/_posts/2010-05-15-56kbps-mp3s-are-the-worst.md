@@ -2,7 +2,7 @@
 title: 56kbps MP3s are the Worst
 author: Colin
 layout: post
-permalink: /2010/05/15/56kbps-mp3s-are-the-worst/
+# permalink: /2010/05/15/56kbps-mp3s-are-the-worst/
 aktt_notify_twitter:
   - no
 categories:

@@ -2,7 +2,7 @@
 title: 'I&#8217;d Like to Think in Heaven&#8230; (#2)'
 author: Colin
 layout: post
-permalink: /2008/12/10/id-like-to-think-in-heaven-2/
+# permalink: /2008/12/10/id-like-to-think-in-heaven-2/
 categories:
   - Heaven
 ---

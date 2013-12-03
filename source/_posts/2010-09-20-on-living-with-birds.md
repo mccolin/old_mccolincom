@@ -2,7 +2,7 @@
 title: On Living with Birds
 author: Colin
 layout: post
-permalink: /2010/09/20/on-living-with-birds/
+# permalink: /2010/09/20/on-living-with-birds/
 aktt_notify_twitter:
   - no
 categories:

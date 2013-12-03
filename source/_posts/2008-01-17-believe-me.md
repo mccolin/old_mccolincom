@@ -2,7 +2,7 @@
 title: Believe Me
 author: Colin
 layout: post
-permalink: /2008/01/17/believe-me/
+# permalink: /2008/01/17/believe-me/
 aktt_tweeted:
   - 1
 categories:

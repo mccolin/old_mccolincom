@@ -2,7 +2,7 @@
 title: Stuck in Rock City
 author: Colin
 layout: post
-permalink: /2009/06/30/stuck-in-rock-city/
+# permalink: /2009/06/30/stuck-in-rock-city/
 aktt_notify_twitter:
   - no
 categories:

@@ -2,7 +2,7 @@
 title: Introducing new people to old things
 author: Colin
 layout: post
-permalink: /2008/10/03/introducing-new-people-to-old-things/
+# permalink: /2008/10/03/introducing-new-people-to-old-things/
 aktt_tweeted:
   - 1
 categories:

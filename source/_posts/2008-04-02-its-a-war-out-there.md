@@ -2,7 +2,7 @@
 title: It’s A War Out There
 author: Colin
 layout: post
-permalink: /2008/04/02/its-a-war-out-there/
+# permalink: /2008/04/02/its-a-war-out-there/
 aktt_tweeted:
   - 1
 aktt_notify_twitter:

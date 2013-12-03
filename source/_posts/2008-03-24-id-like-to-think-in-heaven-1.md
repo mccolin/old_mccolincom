@@ -2,7 +2,7 @@
 title: 'I&#8217;d Like to Think in Heaven&#8230; (#1)'
 author: Colin
 layout: post
-permalink: /2008/03/24/id-like-to-think-in-heaven-1/
+# permalink: /2008/03/24/id-like-to-think-in-heaven-1/
 aktt_tweeted:
   - 1
 categories:

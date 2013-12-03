@@ -2,7 +2,7 @@
 title: 29th Anniversary
 author: Colin
 layout: post
-permalink: /2012/01/23/29th-anniversary/
+# permalink: /2012/01/23/29th-anniversary/
 aktt_notify_twitter:
   - yes
 categories:

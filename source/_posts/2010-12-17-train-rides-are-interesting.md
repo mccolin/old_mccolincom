@@ -2,7 +2,7 @@
 title: Train rides are interesting
 author: Colin
 layout: post
-permalink: /2010/12/17/train-rides-are-interesting/
+# permalink: /2010/12/17/train-rides-are-interesting/
 aktt_notify_twitter:
   - yes
 categories:

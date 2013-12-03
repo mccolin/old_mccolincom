@@ -2,7 +2,7 @@
 title: Inspiration as Potential Energy
 author: Colin
 layout: post
-permalink: /2007/10/30/inspiration-as-potential-energy/
+# permalink: /2007/10/30/inspiration-as-potential-energy/
 categories:
   - Rants and Raves
 tags:

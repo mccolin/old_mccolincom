@@ -2,7 +2,7 @@
 title: West Coast State of Mind
 author: Colin
 layout: post
-permalink: /2008/02/20/west-coast-state-of-mind/
+# permalink: /2008/02/20/west-coast-state-of-mind/
 aktt_tweeted:
   - 1
 categories:

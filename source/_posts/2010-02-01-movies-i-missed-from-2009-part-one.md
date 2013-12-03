@@ -2,7 +2,7 @@
 title: Movies I Missed from 2009, Part One
 author: Colin
 layout: post
-permalink: /2010/02/01/movies-i-missed-from-2009-part-one/
+# permalink: /2010/02/01/movies-i-missed-from-2009-part-one/
 aktt_notify_twitter:
   - no
 categories:

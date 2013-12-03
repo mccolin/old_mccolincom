@@ -2,7 +2,7 @@
 title: Plan It All Out?
 author: Colin
 layout: post
-permalink: /2009/01/13/plan-it-all-out/
+# permalink: /2009/01/13/plan-it-all-out/
 aktt_notify_twitter:
   - no
 categories:

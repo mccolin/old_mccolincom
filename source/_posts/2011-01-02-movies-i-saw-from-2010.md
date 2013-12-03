@@ -2,7 +2,7 @@
 title: Movies I Saw From 2010
 author: Colin
 layout: post
-permalink: /2011/01/02/movies-i-saw-from-2010/
+# permalink: /2011/01/02/movies-i-saw-from-2010/
 aktt_notify_twitter:
   - yes
 categories:

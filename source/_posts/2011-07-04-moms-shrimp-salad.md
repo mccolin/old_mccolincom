@@ -2,7 +2,7 @@
 title: 'Mom&#8217;s Shrimp Salad'
 author: Colin
 layout: post
-permalink: /2011/07/04/moms-shrimp-salad/
+# permalink: /2011/07/04/moms-shrimp-salad/
 aktt_notify_twitter:
   - yes
 categories:

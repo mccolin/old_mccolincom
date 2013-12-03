@@ -2,7 +2,7 @@
 title: Stay Hungry. Stay Foolish.
 author: Colin
 layout: post
-permalink: /2007/12/29/stay-hungry-stay-foolish/
+# permalink: /2007/12/29/stay-hungry-stay-foolish/
 aktt_tweeted:
   - 1
 categories:

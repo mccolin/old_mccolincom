@@ -2,7 +2,7 @@
 title: Pummelvision Made Me Smile
 author: Colin
 layout: post
-permalink: /2010/12/19/pummelvision-made-me-smile/
+# permalink: /2010/12/19/pummelvision-made-me-smile/
 aktt_notify_twitter:
   - yes
 categories:

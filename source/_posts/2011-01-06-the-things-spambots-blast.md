@@ -2,7 +2,7 @@
 title: The Things Spambots Blast
 author: Colin
 layout: post
-permalink: /2011/01/06/the-things-spambots-blast/
+# permalink: /2011/01/06/the-things-spambots-blast/
 aktt_notify_twitter:
   - yes
 categories:

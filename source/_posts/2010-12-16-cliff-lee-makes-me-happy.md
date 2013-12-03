@@ -2,7 +2,7 @@
 title: Cliff Lee makes me happy.
 author: Colin
 layout: post
-permalink: /2010/12/16/cliff-lee-makes-me-happy/
+# permalink: /2010/12/16/cliff-lee-makes-me-happy/
 aktt_notify_twitter:
   - yes
 aktt_twitter_id:

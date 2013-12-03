@@ -2,7 +2,7 @@
 title: 'String Cheese Strategy: Pocket Warmer'
 author: Colin
 layout: post
-permalink: /2010/03/29/string-cheese-strategy-pocket-warmer/
+# permalink: /2010/03/29/string-cheese-strategy-pocket-warmer/
 aktt_notify_twitter:
   - no
 categories:

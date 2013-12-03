@@ -2,7 +2,7 @@
 title: Shutting the Door, For Now
 author: Colin
 layout: post
-permalink: /2011/05/18/shutting-the-door-for-now/
+# permalink: /2011/05/18/shutting-the-door-for-now/
 aktt_notify_twitter:
   - yes
 categories:

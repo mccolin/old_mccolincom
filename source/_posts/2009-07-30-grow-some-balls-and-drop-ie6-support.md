@@ -2,7 +2,7 @@
 title: 'Let&#8217;s All Forget IE6 With Good Reason'
 author: Colin
 layout: post
-permalink: /2009/07/30/grow-some-balls-and-drop-ie6-support/
+# permalink: /2009/07/30/grow-some-balls-and-drop-ie6-support/
 aktt_notify_twitter:
   - no
 categories:

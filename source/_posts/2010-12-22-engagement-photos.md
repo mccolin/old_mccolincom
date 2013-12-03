@@ -2,7 +2,7 @@
 title: Engagement Photos
 author: Colin
 layout: post
-permalink: /2010/12/22/engagement-photos/
+# permalink: /2010/12/22/engagement-photos/
 aktt_notify_twitter:
   - yes
 categories:

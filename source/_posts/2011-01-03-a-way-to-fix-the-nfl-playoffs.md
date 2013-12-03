@@ -2,7 +2,7 @@
 title: A Way to Fix the NFL Playoffs
 author: Colin
 layout: post
-permalink: /2011/01/03/a-way-to-fix-the-nfl-playoffs/
+# permalink: /2011/01/03/a-way-to-fix-the-nfl-playoffs/
 aktt_notify_twitter:
   - yes
 categories:

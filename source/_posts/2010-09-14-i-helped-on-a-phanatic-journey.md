@@ -2,7 +2,7 @@
 title: I Helped on a Phanatic Journey
 author: Colin
 layout: post
-permalink: /2010/09/14/i-helped-on-a-phanatic-journey/
+# permalink: /2010/09/14/i-helped-on-a-phanatic-journey/
 aktt_notify_twitter:
   - no
 categories:
