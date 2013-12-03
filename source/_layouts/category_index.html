@@ -2,6 +2,14 @@
 layout: default
 ---
 
+<h1>{{site.author}} and {{page.category | capitalize}}</h1>
+<h2>Posts written in the {{page.category}} topic</h2>
+
+{% assign index = true %}
+<div itemscope itemtype="http://schema.org/Blog">
 {% for post in site.categories[page.category] %}
-	{% include archive_post.html %}
+{% assign content = post.content %}
+    <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">{% include article.html %}</article>
 {% endfor %}
+</div>
+

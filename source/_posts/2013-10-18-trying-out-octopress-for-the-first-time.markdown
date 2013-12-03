@@ -3,7 +3,7 @@ layout: post
 title: "Trying out Octopress for the First Time"
 date: 2013-10-18 18:10
 comments: true
-categories:
+categories: awesome
 ---
 
 This is the body of my test post.
