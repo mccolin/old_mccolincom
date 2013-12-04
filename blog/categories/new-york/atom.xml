@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Topic: New York | Colin McCloskey is Awesome]]></title>
+  <link href="http://mccolin.github.io/blog/categories/new-york/atom.xml" rel="self"/>
+  <link href="http://mccolin.github.io/"/>
+  <updated>2013-12-03T21:17:24-05:00</updated>
+  <id>http://mccolin.github.io/</id>
+  <author>
+    <name><![CDATA[Colin McCloskey]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Train rides are interesting]]></title>
+    <link href="http://mccolin.github.io/blog/2010/12/17/train-rides-are-interesting/"/>
+    <updated>2010-12-17T00:00:00-05:00</updated>
+    <id>http://mccolin.github.io/blog/2010/12/17/train-rides-are-interesting</id>
+    <content type="html"><![CDATA[<p>Too many people. Loud ticket checkers. Not as fast moving as you&#8217;d think. Kids from college crammed in on their way home for the semester break. Fairly meh seats. High fares.</p>
+
+<p>Next time Bolt bus?</p>
+
+<p><span class='st\_facebook\_buttons' st\_title='Train rides are interesting' st\_url='http://mccolin.com/2010/12/17/train-rides-are-interesting/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Train rides are interesting' st\_url='http://mccolin.com/2010/12/17/train-rides-are-interesting/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Train rides are interesting' st\_url='http://mccolin.com/2010/12/17/train-rides-are-interesting/' displayText='share'></span></p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Topic: Facebook | Colin McCloskey is Awesome]]></title>
+  <link href="http://mccolin.github.io/blog/categories/facebook/atom.xml" rel="self"/>
+  <link href="http://mccolin.github.io/"/>
+  <updated>2013-12-03T21:17:24-05:00</updated>
+  <id>http://mccolin.github.io/</id>
+  <author>
+    <name><![CDATA[Colin McCloskey]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Let&#8217;s All Forget IE6 With Good Reason]]></title>
+    <link href="http://mccolin.github.io/blog/2009/07/30/grow-some-balls-and-drop-ie6-support/"/>
+    <updated>2009-07-30T00:00:00-04:00</updated>
+    <id>http://mccolin.github.io/blog/2009/07/30/grow-some-balls-and-drop-ie6-support</id>
+    <content type="html"><![CDATA[<p>Supporting Internet Explorer 6 is one of the most frustrating things about my job. It seems like a petty thing to worry one&#8217;s self over, but it&#8217;s come to this.</p>
+
+<p>I work for a marketing agency that builds social marketing applications and ad campaigns in the world&#8217;s largest social networks. Paramount among these social networks is Facebook. I&#8217;m sure you&#8217;ve heard of it. One thing you may not know about Facebook is that they&#8217;ve not been officially tailoring to Internet Explorer 6 for some time, now. As a user of an outdated browser (even Firefox 2, Safari 2, and other oldies), you see this message on your home screen post-login:</p>
+
+<div id="attachment_89" class="wp-caption aligncenter" style="width: 310px">
+  <img class="size-medium wp-image-89" title="ie6_fb_msg" src="http://colinmccloskey.com/blog/wp-content/uploads/2009/07/ie6_fb_msg-300x68.png" alt="What you see when you login to Facebook with an outdated browser" width="300" height="68" /><p class="wp-caption-text">
+    What you see when you login to Facebook with an outdated browser
+  </p>
+</div>
+
+
+<p>While this does not itself represent a failure to support the browser completely, it is an indication that your browser may render things a bit differently, because it&#8217;s old. They go so far as to provide helpful links to make your path to upgrade simple. As I understand it, this screen is Facebook&#8217;s way of saying, &#8220;Hey. Your browser is old. We can&#8217;t make everything look perfect for you until you upgrade.&#8221;</p>
+
+<p>The message isn&#8217;t rude. It&#8217;s not forceful. They don&#8217;t prevent you from using the site,  and most of the things you&#8217;ll do with Facebook-proper look pretty fine in your old browser. Not <em>everything</em>, but <em>most</em> things.</p>
+
+<p>I&#8217;ve felt for a long time that this is a good approach to web development &#8212; do your best to support the bleeding edge, and scale back your efforts on the lower end of the spectrum. Once it becomes a frustration and hassle to support things in the oldest of platforms, cut out the old platforms. Microsoft even acknowledges this, as they haven&#8217;t allowed IE6 or any of its lesser forefathers to even be installed on Windows Vista or the forthcoming Windows 7 (<a href="http://en.wikipedia.org/wiki/Internet_Explorer#OS_compatibility" title="Internet Explorer OS compatibility chart, courtesy of the editable public">see chart of Microsoft&#8217;s commendably aggressive history of putting old browsers out to pasture</a>). By focusing your efforts on the future, you are enhancing your own products going forward, without concerning yourself with the past. Odds are, the customers you are likely to attract with new and fun things are the ones running the more recent technologies themselves.</p>
+
+<p>Internet Explorer 6 was a great browser. It was the industry benchmark for awesomeness&#8230; when it was released&#8230; in August, 2001. Eight years ago! I commend it for being a stable platform that opened doorways to a lot of advanced web development that has taken place in the past eight years. Unfortunately, it has been showing it&#8217;s age for years, now (I could list those reasons, here, but feel <a href="http://www.contrast.ie/blog/dear-ie6-i-hate-you/" title="Why IE6 is well-hated">an excellent job is done in this post of hate declaration</a>). It&#8217;s lack of support for some basic principles of design used in today&#8217;s development cycle make it the most hated thing for developers and designers like myself.</p>
+
+<p>Why not just cut it off? Stop supporting it? Good question! The answer most development houses and agencies fall back on varies a bit, but always contains an amalgamation of the following points:</p>
+
+<ul>
+<li>Clients use IE6 as their primary browser at work.</li>
+<li>Many of these clients use corporate computers they have no ability to upgrade.</li>
+<li>IT staffs at many corporations are remiss to upgrade IE6 because some variety of intranet or HR software that was written over five years ago doesn&#8217;t look good in any other browser</li>
+<li>IE6 still maintains a considerable market share of overall Internet browsing (<a href="http://www.w3schools.com/browsers/browsers_stats.asp" title="Browser Statistics and market share figures">something near 15% at my last check</a>)</li>
+<li>The client told us we have to support it</li>
+</ul>
+
+
+<p>These reasons are understandable. They make sense. But they indicate a problem wherein clients (often large, lazy corporations behind on their technology) are thinking about <em>themselves</em> and not their <em>customers</em>. It is absolutely true that the browser distribution in corporate settings is ridiculously still IE6-leaning, but that is no indicator of a general consumer population, which is rejecting the browser for newer alternatives, be it the latest Internet Explorer (version 8 is joy to use over its ugly older step-siblings), FireFox (infinitely extensible, pretty fast, and standards compliant), Safari on macs (delightful to use and test on), or even Google&#8217;s Chrome (pretty slick). Consumers get it. They&#8217;ve upgraded and are using newer stuff.</p>
+
+<p>So what it comes down to is corporate clients should take faith in the fact that the public is using newer technology then those within their walls and they should embrace that reality.</p>
+
+<p>And agencies (like my own) should grow a pair and convince clients that the future is now. The past is the past. Look forward. You&#8217;ll be able to build a better, more feature-ful product. Plus you&#8217;ll get it in less time since there won&#8217;t be as wide an array of awful compliance testing for developers to engage in.</p>
+
+<p>Oh, and you&#8217;ll make my life easier, but that&#8217;s just an added benefit. For me, at least.</p>
+
+<p>Please?</p>
+
+<p><span class='st\_facebook\_buttons' st\_title='Let&#8217;s All Forget IE6 With Good Reason' st\_url='http://mccolin.com/2009/07/30/grow-some-balls-and-drop-ie6-support/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Let&#8217;s All Forget IE6 With Good Reason' st\_url='http://mccolin.com/2009/07/30/grow-some-balls-and-drop-ie6-support/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Let&#8217;s All Forget IE6 With Good Reason' st\_url='http://mccolin.com/2009/07/30/grow-some-balls-and-drop-ie6-support/' displayText='share'></span></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[It’s A War Out There]]></title>
+    <link href="http://mccolin.github.io/blog/2008/04/02/its-a-war-out-there/"/>
+    <updated>2008-04-02T00:00:00-04:00</updated>
+    <id>http://mccolin.github.io/blog/2008/04/02/its-a-war-out-there</id>
+    <content type="html"><![CDATA[<p>If you&#8217;re like me, you&#8217;ve had the pleasure recently of ticketing your friends, skirting the law, and earning new cars and badges in <a href="http://apps.facebook.com/parkingwars/" title="Parking Wars by A&amp;E">Parking Wars</a> for a bit of time, now. <em>For the record: I&#8217;m nearing $750,000 in the app and am fending off charges from friends of lesser value while trying to climb ever-closer to friends that have more bank.</em> It&#8217;s addictive, this game!</p>
+
+<p>That&#8217;s why it was fun to see this when I tried to park my cars a bit, just now:</p>
+
+<p><a href="http://mccolin.com/2008/04/02/its-a-war-out-there/parking-wars-is-down/" rel="attachment wp-att-19" title="Parking Wars is Down"></a></p>
+
+<p style="text-align: center">
+  <a href="http://mccolin.com/2008/04/02/its-a-war-out-there/parking-wars-is-down/" rel="attachment wp-att-19" title="Parking Wars is Down"><img src="http://colinmccloskey.com/blog/wp-content/uploads/2008/04/pwars_update.thumbnail.png" alt="Parking Wars is Down" border="0" vspace="10" /></a>
+</p>
+
+
+<p>It was maddening, to me, to not be able to move and shift fake cars around on fake streets run virtually by my real friends.</p>
+
+<p>*(All usage figures used below from <a href="http://www.adonomics.com/" title="Facebook application valuation and tracking statistics">Adonomics</a> reports, April 2, 2008) *</p>
+
+<p>When a social networking application can become this addictive and enticing, it&#8217;s a seriously great score. It&#8217;s impressive. There have been studies that say an application &#8212; game or otherwise useful utility &#8212; has somewhere between 30 seconds and one minute to impress (or annoy!) the average Facebook user before they decide to uninstall the application. As most of these applications are attempting to leverage some sort of advertising angle, it&#8217;s a very make-or-break medium.</p>
+
+<p>While I can&#8217;t confirm with numbers that A&amp;E is seeing an uptick in website traffic or viewership for the television program the game is modeled after, I can confirm with numbers that the application itself is proving to be one of the most engaging and actively-used applications in the Facebook realm:</p>
+
+<p class="dataRight">
+  Over 90 thousand people use Parking Wars every day. That&#8217;s nearly one-third of all of the 300 thousand plus people that currently have it installed. Somehow, in this realm of shortened attention spans, the folks behind Parking Wars have found a way to get one in every three of their users to return every day!
+</p>
+
+
+
+
+<p class="dataRight">
+  That&#8217;s unheard of. Well, not entirely. Let me give you an idea of how Parking Wars compares to some of the other top applications on Facebook: it ranks #64 in daily engagement (that one-third of people come back every day makes for a very high ranking) and is #498 in total installed user base.
+</p>
+
+
+
+
+<p class="dataRight">
+  While being barely in the top 500 might seem unimpressive, you should realize that being #498 out of #21,848 is a big feat. It&#8217;s right above &#8220;Are You A Bitch,&#8221; right behind &#8220;Which Hollywood Superstar Are You?&#8221; and interestingly close to an application my company has developed &#8211; <a href="http://apps.facebook.com/smartypants/" title="Smarty Pants for Facebook">Smarty Pants</a> (which sits at #518 with 285,000 total users, 8,550 of which come back every day).
+</p>
+
+
+
+
+<p class="dataRight">
+  As companies, advertising agencies, and marketing folk attempt to get a handle on how powerful social networking can be, they should observe applications like Parking Wars. There&#8217;s interesting pulls that keep users checking daily, whether it be defending themselves from ticket-happy friends, attempting to get the most money for their actions (it&#8217;s all virtual dollars, sadly), or just going in a punishing their friends for parking a black car in a yellow cars only zone.
+</p>
+
+
+
+
+<p class="dataRight">
+   If Parking Wars doesn&#8217;t quite end up driving viewership to their television programming, it at least will go a great distance toward improving their brand image and introducing the A&E brand to the younger demographic available of Facebook. Perhaps in the near future they can find even better ways to pull people like me out of their daily routine to check a social networking application every so often. Good work if they manage it!
+</p>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr id="compApps" class="odd">
+    <td class="rankNum">
+    </td>
+    
+    <td style="max-width: 10em">
+    </td>
+    
+    <td>
+    </td>
+    
+    <td>
+    </td>
+    
+    <td>
+    </td>
+    
+    <td>
+    </td>
+    
+    <td>
+    </td>
+  </tr>
+</table>
+
+
+
+
+<p class="dataRight">
+  &nbsp;
+</p>
+
+
+<p><span class='st\_facebook\_buttons' st\_title='It’s A War Out There' st\_url='http://mccolin.com/2008/04/02/its-a-war-out-there/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='It’s A War Out There' st\_url='http://mccolin.com/2008/04/02/its-a-war-out-there/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='It’s A War Out There' st\_url='http://mccolin.com/2008/04/02/its-a-war-out-there/' displayText='share'></span></p>
+]]></content>
+  </entry>
+  
+</feed>
