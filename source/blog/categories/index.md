@@ -8,6 +8,6 @@ sharing: false
 
 <ul>
 {% for item in site.categories %}
-    <li><a href="/blog/categories/{{ item[0] }}/">{{ item[0] | capitalize }}</a> ({{ item[1].size }})</li>
+    <li><a href="/blog/categories/{{ item[0] | downcase | replace:' ','-' }}/">{{ item[0] | capitalize }}</a> ({{ item[1].size }})</li>
 {% endfor %}
 </ul>
