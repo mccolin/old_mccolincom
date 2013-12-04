@@ -42,9 +42,11 @@ a:hover {
 
 #mast {
   background-color: $color-mast-bg;
-  background-image: url(http://farm2.static.flickr.com/1240/553404266_75cc79deda_o.jpg);
+  background-image: url(http://farm2.static.flickr.com/1240/553404266_75cc79deda_o.jpg); // Cow Jump
+  // background-image: url(http://farm4.staticflickr.com/3291/2535214295_8aa30998ca_o.jpg); // Iron Monsters
   @media #{$large-media} {
-    background-position: -1350px -275px;
+    background-position: -1350px -275px;  // Cow Jump
+    // background-position: -300px -700px;  // Iron Monsters
     border-right: 1px solid #999;
     box-shadow: inset -2px 0 3px rgba(0,0,0,0.5);
     height: 100%;
