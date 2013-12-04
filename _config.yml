@@ -3,11 +3,12 @@
 # ----------------------- #
 
 url: http://mccolin.github.io
-title: Colin McCloskey is Awesome
-subtitle: "Software guy, sports enthusiast, all-around excellent person."
+title: This is Colin McCloskey
+# subtitle: "Software guy, sports enthusiast, all-around excellent person."
+subtitle: "Bearded, computery nerd person and excellent dude."
 author: Colin McCloskey
 simple_search: http://google.com/search
-description: "Colin is a Philadelphian, founder and Principal at Awexome Labs, Organizer of WOSoMP, former contributor to Yet Another Beer Show, and once frontman of The Chuck Ross"
+description: "Colin is a Philadelphian, founder and Principal at Awexome Labs, Organizer of WOSoMP, former contributor to Yet Another Beer Show, once bassist of Monica's Ghost, and once frontman of The Chuck Ross"
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
