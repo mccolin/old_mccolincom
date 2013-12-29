@@ -1,51 +1,69 @@
 ---
 layout: page
 title: "About Colin McCloskey"
-#subtitle: "I get all personal and into myself"
+subtitle: "I get all personal and into myself for your benefit"
 date: 2013-10-18 18:10
 
 allow_sharing: false
 allow_comments: false
 ---
 
-If you are looking for details about me, I suppose you've come to the right place.
+I was born in Drexel Hill, Pennsylvania, on a Sunday, three weeks before I was expected to arrive, which
+is funny to me, because nowadays, I am typically a couple minutes late whenever I'm headed somewhere. 
 
-**From the beginning...** I was born outside of Philadelphia but moved to New Jersey at a young age.
-I grew up in Central New Jersey. People that aren't from our lovely state may have a negative perception
-of the place or the people here, but it's a pretty awesome place. I had a childhood fairly typical of an
-only child.
+My family moved to New Jersey when I was very young, and I spent all of my formative years in the Garden 
+State. In addition to me, there are lots of amazing things from my home state, like
+[football][football], 
+[the spaces on the Monopoly board][monopoly],
+[the motion picture camera][thomas_edison],
+[telephones][bell_labs],
+[the better Kevin Smith movies][kevin_smith],
+and [Danny freakin' DeVito][devito]! 
 
-In fact, a lot of the details of my growing up and travels were previously documented on
-[a profile I created](http://www.thosekids.org/travelogue/wiki.php?n=Travelers.Colin) for a trip through
-Europe I was taking with friends. You can also [read a lot about that trip at that site](http://www.thosekids.org/travelogue/wiki.php)
-or check out [my many pictures from the excursion](http://www.flickr.com/photos/mccolin/collections/72157600321586434/).
+I am an only child, which is every bit as great as you thought it'd be when you tried to wish away your
+siblings as a kid, but carries with it a lot of additional responsibility and it means I had a lot of
+gently-used board games in my closet, because there weren't brothers or sisters around to play with.
+Oh! And if you let your parents down, there's nobody else to pick up the slack.
 
-**A few months after that trip in 2007...** I founded,
-[produced, planned, and ran](http://www.flickr.com/photos/mccolin/sets/72157601842524494/) the very first
-WOSoMP. What is **WOSoMP**, you ask? It's an acronym for the Weekend Olympic Showdown of Massive
-Proportions and the event was exactly as it sounds. We brought along some kegs, some complicated rules,
-and more than 30 friends to what was a competition in nine sporting events invented or humorously altered
-from their norms by your's truly. The weekend remains one of the favorite things I've ever done and I keep
-promising people a follow-up event. My targets are set for another weekend in 2011. I'll keep you posted.
+**Growing Up...** I was a excellent student in school and I played outside a lot. From a young age, I
+created wildly over-detailed sports and game leagues with elaborate rules, rankings, and stats. This 
+started simply as "SBF" (Soccer, Baseball Football) on my street in Edison, NJ, then the "Summer Soccer
+League" in Branchburg, but grew into things like "Beotch Ball" -- a game played in dorms between two
+people with a rule book over five single-spaced pages long, an official world ranking system, and more
+than three completed tournaments. This would eventually spur [WOSoMP][wosomp], the Weekend Olympic
+Showdown of Massive Proportions in my adult life.
 
-**A couple months later, I jumped ship to San Francisco...** to become the fourth employee of a startup
-company. Making this move in very early 2008 was fairly unexpected for me. After visiting San Francisco
-for the first time the previous June, I thought I liked it, but never saw myself living there. I was
-wrong! My time in San Francisco was incredible, if somewhat brief. My moving was the catalyst that
-finally got me together with my <del>soon-to-be</del> wife (you can read all about how cute we are
-[on our website](http://www.lizandcolin.us/)). I met dozens of great people and a big chunk of hopefully
-lifelong friends. I reconnected with an old schoolmate and formed an even better friendship than we had
-back on the east coast. I enjoyed the experience of living in one of the most exciting and cultural
-cities in the word. I recommend San Francisco to anyone. Go visit. Go live there. Just go.
+**I attended college** at the [University of Delaware][udel] in Newark, DE, majoring in Computer Science.
+To this day, UD is one of my favorite places on earth, and it's where I forged some of my best and 
+longest-lasting friendships. Most notably, I met [my future wife][lizza] while attending, but we didn't
+become an item until years later. While in school, I was a Resident Assistant my junior and senior years
+and followed a passion for that work to a year of grad school as a Hall Director. I also started a band,
+called Monica's Ghost, with four of my best friends. We've played two shows ever and that was at least
+one too many.
 
-**And after nearly three years...** I came back east. My fiancé, Liz, and I 
-[packed up a moving truck and hit the open road](http://lizandcolin.tumblr.com/) towards greater 
-Philadelphia. It was time to come home. Years away from our closest friends and family had been hard, 
-and we had business to attend to, like [getting married](http://lizandcolin.us) and starting the next
-phase of our awesome lives together.
+**After school** I moved back home with my parents for a few years as I started my professional life.
+I can expound on the benefits and greatness of Central New Jersey for hours, but suburbia can be a bit
+less than exciting for a 23 year old post-grad. I made the best of it, learning everything I could at 
+my job and trying a few new things like [playing a spy in a local theater production][stalag17] and 
+getting that [WOSoMP][wosomp] thing started. 
 
+**After a bit of time...**, I broke out of my comfort zone and **moved to San Francisco** and became
+the fourth employee of a startup company. I wanted something different and I wanted to experience living
+in a city and there's no reason to *not* do something in your life that feels right, makes sense, and
+seems like a great next step. Around the time I put my move in motion, I started a romantic relationship
+with my best friend, Liz. We'd been spending a lot of time together over the prior year, and my moving
+west was the catalyst for the two of us to admit our feelings for one another and get together. A few
+months after I moved, she was able to join me, and we hit the west together. We lived together in San
+Francisco for nearly three years. It was an amazing experience, almost like a "second college," at least
+socially. We met many friends, tried new things, and forged our romantic relationship.
 
-**That's a few decent chunks of my story.** If you were looking for more of a bullet-point type experience, here's some more tidbits for you:
+**We moved back east...** in the summer of 2010. We planned [our wedding][wedding] and settled into an
+apartment (and later a house) in Philadelphia. Our time living back east has been enriching. Being closer
+to family and our core friend group has yielded many benefits, and we've been able to continue exploring
+city life at a lower cost than in SF. While I sometimes miss the west coast, I know I'm where I want to
+be and taking the steps I want to take in life.
+
+For those with deeper interest, you might enjoy this list of curious facts about me:
  
  - I am taller than your average dude, but nothing majorly exciting.
  - I broke my left leg jumping out of a swing (and sticking the landing) about three weeks before going to college.
@@ -61,14 +79,30 @@ phase of our awesome lives together.
  - I play bass guitar. Sometimes in a band called Monica's Ghost.
  - My mom calls me "bunyip" as a pet name. It's not clear to me whether or not she knew that a Bunyip was a [mythological Australian monster](http://en.wikipedia.org/wiki/Bunyip) at the time she started calling me that.
 
-**When it comes to writing on my blog...** I often fall behind on it. Should you subscribe to my site in your news reader, you are unlikely to be inundated with posts, so have no fear.
 
-**If you want to go even further...** here are a few additional links:
+I have a history of sporadically updating my blog and/or neglecting it for months and years on end. Should you
+subscribe to this site in your news reader, there's no reason to fear you'd be overwhelmed ;-)
 
- - Social network links: [Facebook](http://facebook.com/colinmccloskey), [Twitter](http://twitter.com/mccolin), [LinkedIn](http://www.linkedin.com/in/mccolin)
- - [Photos I've Taken](http://flickr.com/photos/mccolin), [My Photos of Me](http://flickr.com/photos/mccolin/tags/colin/), [Other Photos of Me](http://flickr.com/photos/tags/mccolin/), [Different Photos of Me](http://flickr.com/photos/tags/beardcolin/)
+
+If you just can't stop reading about me:
+
+ - Previous versions of this page: [2010](/about/2010.html)
+ - Follow me socially: [Facebook](http://facebook.com/colinmccloskey) (visible to friends only), [Twitter](http://twitter.com/mccolin), [LinkedIn](http://www.linkedin.com/in/mccolin)
+ - Photos I take with my phone: [My Instagram](http://instagram.com/mccolin)
+ - Some code I do: [GitHub](http://github.com/mccolin)
  - [Another page that's just me](http://colinmccloskey.com/)
- - [My bucket of things](http://colinmccloskey.com/things)
- - [A song my friend improvised about my family](http://colinmccloskey.com/music/ClintAmbs_TheMcCloskeys.mp3)
+ - [A Stash of old Internet things of mine](http://colinmccloskey.com/things)
+ - [A song my friend improvised about my family in 2001](http://colinmccloskey.com/music/ClintAmbs_TheMcCloskeys.mp3)
 
 
+[football]: http://en.wikipedia.org/wiki/1869_college_football_season#First_intercollegiate_football_game_ever_played
+[monopoly]: http://en.wikipedia.org/wiki/Monopoly_(game)
+[devito]: http://en.wikipedia.org/wiki/Danny_DeVito
+[thomas_edison]: http://en.wikipedia.org/wiki/Thomas_Edison
+[bell_labs]: http://en.wikipedia.org/wiki/Bell_Labs
+[wosomp]: http://wosomp.com/
+[udel]: http://udel.edu/
+[lizza]: http://thebluesunshine.com/
+[stalag17]: http://www.svptheatre.org/Seasons/2007-40th_season/stalag17pics.htm "Hilarios photos of me behind this link"
+[kevin_smith]: http://en.wikipedia.org/wiki/View_Askewniverse
+[wedding]: http://lizandcolin.us/
