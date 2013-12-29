@@ -13,4 +13,3 @@ Today will mark 29 years since the end of the B.C. (&#8220;Before Colin&#8221;) 
 
 You&#8217;re welcome.
 
-<span class='st\_facebook\_buttons' st\_title='29th Anniversary' st\_url='http://mccolin.com/2012/01/23/29th-anniversary/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='29th Anniversary' st\_url='http://mccolin.com/2012/01/23/29th-anniversary/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='29th Anniversary' st\_url='http://mccolin.com/2012/01/23/29th-anniversary/' displayText='share'></span>

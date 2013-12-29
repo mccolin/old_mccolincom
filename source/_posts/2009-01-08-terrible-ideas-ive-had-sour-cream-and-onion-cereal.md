@@ -21,4 +21,3 @@ Truth be told, I never investigated the process or the combination of oats and f
 
 But be warned if I ever ask you to try &#8220;this awesome new thing&#8221; for breakfast.
 
-<span class='st\_facebook\_buttons' st\_title='Terrible Ideas I&#8217;ve Had: Sour Cream and Onion Cereal' st\_url='http://mccolin.com/2009/01/08/terrible-ideas-ive-had-sour-cream-and-onion-cereal/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Terrible Ideas I&#8217;ve Had: Sour Cream and Onion Cereal' st\_url='http://mccolin.com/2009/01/08/terrible-ideas-ive-had-sour-cream-and-onion-cereal/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Terrible Ideas I&#8217;ve Had: Sour Cream and Onion Cereal' st\_url='http://mccolin.com/2009/01/08/terrible-ideas-ive-had-sour-cream-and-onion-cereal/' displayText='share'></span>

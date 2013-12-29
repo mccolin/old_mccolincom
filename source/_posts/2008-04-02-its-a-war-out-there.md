@@ -79,7 +79,7 @@ While I can&#8217;t confirm with numbers that A&E is seeing an uptick in website
   &nbsp;
 </p>
 
-<span class='st\_facebook\_buttons' st\_title='It’s A War Out There' st\_url='http://mccolin.com/2008/04/02/its-a-war-out-there/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='It’s A War Out There' st\_url='http://mccolin.com/2008/04/02/its-a-war-out-there/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='It’s A War Out There' st\_url='http://mccolin.com/2008/04/02/its-a-war-out-there/' displayText='share'></span>
+
 
  [1]: http://apps.facebook.com/parkingwars/ "Parking Wars by A&E"
  [2]: http://www.adonomics.com/ "Facebook application valuation and tracking statistics"

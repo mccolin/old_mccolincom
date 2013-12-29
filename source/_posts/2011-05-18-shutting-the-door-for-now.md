@@ -35,6 +35,6 @@ Colin
 
 Bask in the history of the fatDOG website at <http://thosekids.org/fatdog/>
 
-<span class='st\_facebook\_buttons' st\_title='Shutting the Door, For Now' st\_url='http://mccolin.com/2011/05/18/shutting-the-door-for-now/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Shutting the Door, For Now' st\_url='http://mccolin.com/2011/05/18/shutting-the-door-for-now/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Shutting the Door, For Now' st\_url='http://mccolin.com/2011/05/18/shutting-the-door-for-now/' displayText='share'></span>
+
 
  [1]: http://thosekids.org/fatdog/

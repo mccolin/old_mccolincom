@@ -23,7 +23,7 @@ And [my comment][3] below it:
 
 I still believe what I said. And looking through those pictures gave me serious pangs of homesickness.
 
-<span class='st\_facebook\_buttons' st\_title='I&#8217;d Like to Think in Heaven&#8230; (#1)' st\_url='http://mccolin.com/2008/03/24/id-like-to-think-in-heaven-1/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='I&#8217;d Like to Think in Heaven&#8230; (#1)' st\_url='http://mccolin.com/2008/03/24/id-like-to-think-in-heaven-1/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='I&#8217;d Like to Think in Heaven&#8230; (#1)' st\_url='http://mccolin.com/2008/03/24/id-like-to-think-in-heaven-1/' displayText='share'></span>
+
 
  [1]: http://flickr.com/photos/leslieanneforsyth/sets/72057594112606079/ "Dollar Dogs"
  [2]: http://flickr.com/photos/leslieanneforsyth/132110261/in/set-72057594112606079/ "Rockin' 305"

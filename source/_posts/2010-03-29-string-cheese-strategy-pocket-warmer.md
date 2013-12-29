@@ -23,4 +23,3 @@ How do I get it warm? I&#8217;m glad you asked. My favorite snack-strategy devel
 
 Wonderful.
 
-<span class='st\_facebook\_buttons' st\_title='String Cheese Strategy: Pocket Warmer' st\_url='http://mccolin.com/2010/03/29/string-cheese-strategy-pocket-warmer/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='String Cheese Strategy: Pocket Warmer' st\_url='http://mccolin.com/2010/03/29/string-cheese-strategy-pocket-warmer/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='String Cheese Strategy: Pocket Warmer' st\_url='http://mccolin.com/2010/03/29/string-cheese-strategy-pocket-warmer/' displayText='share'></span>

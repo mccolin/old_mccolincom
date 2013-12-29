@@ -26,4 +26,3 @@ This is *why* life was so much better for most of us when we were young. We thou
 
 So start thinking that way again. And get excited.
 
-<span class='st\_facebook\_buttons' st\_title='Excitement versus Fear' st\_url='http://mccolin.com/2007/11/28/excitement-versus-fear/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Excitement versus Fear' st\_url='http://mccolin.com/2007/11/28/excitement-versus-fear/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Excitement versus Fear' st\_url='http://mccolin.com/2007/11/28/excitement-versus-fear/' displayText='share'></span>

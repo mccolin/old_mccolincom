@@ -23,4 +23,3 @@ Rumor has it they&#8217;re getting things together for us. Maybe we \*will\* eve
 
 Until next time, Detroit!
 
-<span class='st\_facebook\_buttons' st\_title='Stuck in Rock City' st\_url='http://mccolin.com/2009/06/30/stuck-in-rock-city/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Stuck in Rock City' st\_url='http://mccolin.com/2009/06/30/stuck-in-rock-city/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Stuck in Rock City' st\_url='http://mccolin.com/2009/06/30/stuck-in-rock-city/' displayText='share'></span>

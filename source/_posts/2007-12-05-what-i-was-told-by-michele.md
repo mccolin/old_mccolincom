@@ -62,4 +62,3 @@ I have some personal-history research to do, because I&#8217;m not sure about ev
 
 Crazy.
 
-<span class='st\_facebook\_buttons' st\_title='Things Michele Told Me' st\_url='http://mccolin.com/2007/12/05/what-i-was-told-by-michele/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Things Michele Told Me' st\_url='http://mccolin.com/2007/12/05/what-i-was-told-by-michele/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Things Michele Told Me' st\_url='http://mccolin.com/2007/12/05/what-i-was-told-by-michele/' displayText='share'></span>

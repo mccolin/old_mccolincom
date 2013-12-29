@@ -21,6 +21,6 @@ Jess and Dana wanted a photo of themselves with every Phanatic statue. And, as l
 
 [<img class="  alignnone" title="Phanatic Franklin" src="http://colinmccloskey.com/things/PhanaticFranklin.jpg" alt="Phanatic Franklin" width="400" height="532" />][1]
 
-<span class='st\_facebook\_buttons' st\_title='I Helped on a Phanatic Journey' st\_url='http://mccolin.com/2010/09/14/i-helped-on-a-phanatic-journey/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='I Helped on a Phanatic Journey' st\_url='http://mccolin.com/2010/09/14/i-helped-on-a-phanatic-journey/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='I Helped on a Phanatic Journey' st\_url='http://mccolin.com/2010/09/14/i-helped-on-a-phanatic-journey/' displayText='share'></span>
+
 
  [1]: http://danajessicaphanatic.tumblr.com/

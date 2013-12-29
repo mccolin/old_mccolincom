@@ -76,6 +76,6 @@ A couple years back I posted some [remarks from Steve Jobs&#8217; commencement s
 
 While it&#8217;s a bit round-a-bout, it&#8217;s a pretty great story about how new beginnings often become nicely-tied-up endings&#8230; or middles, as it were.
 
-<span class='st\_facebook\_buttons' st\_title='Stay Hungry. Stay Foolish.' st\_url='http://mccolin.com/2007/12/29/stay-hungry-stay-foolish/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Stay Hungry. Stay Foolish.' st\_url='http://mccolin.com/2007/12/29/stay-hungry-stay-foolish/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Stay Hungry. Stay Foolish.' st\_url='http://mccolin.com/2007/12/29/stay-hungry-stay-foolish/' displayText='share'></span>
+
 
  [1]: http://www.thosekids.org/thetrickledown/2005/06/colin-remember-to-read-this-again.html "old blog post, circa 2005"

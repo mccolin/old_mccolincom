@@ -25,4 +25,3 @@ I plot the future
 I plan my next step  
 And wish theirs was mine
 
-<span class='st\_facebook\_buttons' st\_title='Other People&#8217;s Lives' st\_url='http://mccolin.com/2009/11/05/other-peoples-lives/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Other People&#8217;s Lives' st\_url='http://mccolin.com/2009/11/05/other-peoples-lives/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Other People&#8217;s Lives' st\_url='http://mccolin.com/2009/11/05/other-peoples-lives/' displayText='share'></span>

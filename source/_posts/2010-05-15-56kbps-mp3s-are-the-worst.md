@@ -26,4 +26,3 @@ These low-quality files come up occasionally when I&#8217;m on shuffle and at fi
 
 Drew, your MP3 from ten years ago got me again!
 
-<span class='st\_facebook\_buttons' st\_title='56kbps MP3s are the Worst' st\_url='http://mccolin.com/2010/05/15/56kbps-mp3s-are-the-worst/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='56kbps MP3s are the Worst' st\_url='http://mccolin.com/2010/05/15/56kbps-mp3s-are-the-worst/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='56kbps MP3s are the Worst' st\_url='http://mccolin.com/2010/05/15/56kbps-mp3s-are-the-worst/' displayText='share'></span>

@@ -33,4 +33,3 @@ Preparation
 
 Serves two. Delicious on a toasted sandwich or by its lonesome!
 
-<span class='st\_facebook\_buttons' st\_title='Cheesy Hot Dog Scramble' st\_url='http://mccolin.com/2008/03/23/cheesy-hot-dog-scramble/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Cheesy Hot Dog Scramble' st\_url='http://mccolin.com/2008/03/23/cheesy-hot-dog-scramble/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Cheesy Hot Dog Scramble' st\_url='http://mccolin.com/2008/03/23/cheesy-hot-dog-scramble/' displayText='share'></span>

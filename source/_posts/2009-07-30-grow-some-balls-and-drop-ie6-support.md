@@ -46,7 +46,7 @@ Oh, and you&#8217;ll make my life easier, but that&#8217;s just an added benefit
 
 Please?
 
-<span class='st\_facebook\_buttons' st\_title='Let&#8217;s All Forget IE6 With Good Reason' st\_url='http://mccolin.com/2009/07/30/grow-some-balls-and-drop-ie6-support/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Let&#8217;s All Forget IE6 With Good Reason' st\_url='http://mccolin.com/2009/07/30/grow-some-balls-and-drop-ie6-support/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Let&#8217;s All Forget IE6 With Good Reason' st\_url='http://mccolin.com/2009/07/30/grow-some-balls-and-drop-ie6-support/' displayText='share'></span>
+
 
  [1]: http://en.wikipedia.org/wiki/Internet_Explorer#OS_compatibility "Internet Explorer OS compatibility chart, courtesy of the editable public"
  [2]: http://www.contrast.ie/blog/dear-ie6-i-hate-you/ "Why IE6 is well-hated"

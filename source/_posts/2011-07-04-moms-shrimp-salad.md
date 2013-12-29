@@ -38,4 +38,3 @@ This makes me think of my Mom. It makes me think of summer. It makes me happy. I
 
 Enjoy.
 
-<span class='st\_facebook\_buttons' st\_title='Mom&#8217;s Shrimp Salad' st\_url='http://mccolin.com/2011/07/04/moms-shrimp-salad/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Mom&#8217;s Shrimp Salad' st\_url='http://mccolin.com/2011/07/04/moms-shrimp-salad/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Mom&#8217;s Shrimp Salad' st\_url='http://mccolin.com/2011/07/04/moms-shrimp-salad/' displayText='share'></span>

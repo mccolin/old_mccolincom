@@ -24,4 +24,3 @@ It all worked itself out. A vacation in Miami can last only so long and when it 
 
 We&#8217;ll always have that.
 
-<span class='st\_facebook\_buttons' st\_title='On Living with Birds' st\_url='http://mccolin.com/2010/09/20/on-living-with-birds/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='On Living with Birds' st\_url='http://mccolin.com/2010/09/20/on-living-with-birds/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='On Living with Birds' st\_url='http://mccolin.com/2010/09/20/on-living-with-birds/' displayText='share'></span>

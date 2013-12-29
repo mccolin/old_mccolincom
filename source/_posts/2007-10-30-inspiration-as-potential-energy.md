@@ -33,4 +33,3 @@ Or I&#8217;m too busy thinking about how it must not be necessary to make such g
 
 Shit.
 
-<span class='st\_facebook\_buttons' st\_title='Inspiration as Potential Energy' st\_url='http://mccolin.com/2007/10/30/inspiration-as-potential-energy/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Inspiration as Potential Energy' st\_url='http://mccolin.com/2007/10/30/inspiration-as-potential-energy/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Inspiration as Potential Energy' st\_url='http://mccolin.com/2007/10/30/inspiration-as-potential-energy/' displayText='share'></span>

@@ -43,7 +43,7 @@ Wow! Colin cooked up mushrooms!
 
 &nbsp;
 
-<span class='st\_facebook\_buttons' st\_title='Stuffed Portobello Mushroom Caps' st\_url='http://mccolin.com/2011/10/19/stuffed-portobello-mushroom-caps/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Stuffed Portobello Mushroom Caps' st\_url='http://mccolin.com/2011/10/19/stuffed-portobello-mushroom-caps/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Stuffed Portobello Mushroom Caps' st\_url='http://mccolin.com/2011/10/19/stuffed-portobello-mushroom-caps/' displayText='share'></span>
+
 
  [1]: http://www.bluefeathermedia.com/index/wp-content/uploads/2011/01/Portobello-Mushroom.jpg
  [2]: http://www.mccormick.com/Products/GrillMates/Seasoning-Blends/Grill-Mates-Spicy-Montreal-Steak-Seasoning.aspx

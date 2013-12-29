@@ -15,4 +15,3 @@ I don&#8217;t get much in the way of traffic on my blog&#8217;s comments, but al
 
 That&#8217;s harsh, spam robot! I&#8217;ve just started up blogging again and here you go knocking down my self-esteem. I suppose my blog *was* more original and interesting for the months upon months that I left it dormant. Now that I&#8217;m wasting your time spewing my thoughts into it, it&#8217;s a little hard to take, right? Sorry &#8217;bout that.
 
-<span class='st\_facebook\_buttons' st\_title='The Things Spambots Blast' st\_url='http://mccolin.com/2011/01/06/the-things-spambots-blast/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='The Things Spambots Blast' st\_url='http://mccolin.com/2011/01/06/the-things-spambots-blast/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='The Things Spambots Blast' st\_url='http://mccolin.com/2011/01/06/the-things-spambots-blast/' displayText='share'></span>

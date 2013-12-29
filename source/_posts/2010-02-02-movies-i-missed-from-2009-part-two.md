@@ -97,7 +97,7 @@ I have \*very\* mixed feelings about this one. I really had little interest in s
 
 And that about does it. That&#8217;s my list of Movies I Missed from 2009 &#8212; the movies I wanted to see, but didn&#8217;t get around to for one reason or another. Stay tuned this week for more movie-related list geekery and let me know if you agree, disagree, or have advice for anything based on my list by commenting.
 
-<span class='st\_facebook\_buttons' st\_title='Movies I Missed from 2009, Part Two' st\_url='http://mccolin.com/2010/02/02/movies-i-missed-from-2009-part-two/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Movies I Missed from 2009, Part Two' st\_url='http://mccolin.com/2010/02/02/movies-i-missed-from-2009-part-two/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Movies I Missed from 2009, Part Two' st\_url='http://mccolin.com/2010/02/02/movies-i-missed-from-2009-part-two/' displayText='share'></span>
+
 
  [1]: http://mccolin.com/blog/2010/02/01/movies-i-missed-from-2009-part-one "Before reading the continuation, you should read the beginning"
  [2]: http://en.wikipedia.org/wiki/It_Might_Get_Loud

@@ -19,6 +19,6 @@ This thing is really fun and useful. I made a Pummelvision based on my Flickr ph
 
 Make your own at [pummelvision][1].
 
-<span class='st\_facebook\_buttons' st\_title='Pummelvision Made Me Smile' st\_url='http://mccolin.com/2010/12/19/pummelvision-made-me-smile/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Pummelvision Made Me Smile' st\_url='http://mccolin.com/2010/12/19/pummelvision-made-me-smile/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Pummelvision Made Me Smile' st\_url='http://mccolin.com/2010/12/19/pummelvision-made-me-smile/' displayText='share'></span>
+
 
  [1]: http://pummelvision.com/

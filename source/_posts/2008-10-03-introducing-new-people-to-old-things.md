@@ -25,4 +25,3 @@ This is even true of when I&#8217;m the new guy, too. I always straddle this in-
 
 I want to be cordial and friendly and interested, and I temper my highs and lows in order to do this. Maybe this makes me more accurate on the overall. Or maybe this just makes me boring.
 
-<span class='st\_facebook\_buttons' st\_title='Introducing new people to old things' st\_url='http://mccolin.com/2008/10/03/introducing-new-people-to-old-things/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Introducing new people to old things' st\_url='http://mccolin.com/2008/10/03/introducing-new-people-to-old-things/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Introducing new people to old things' st\_url='http://mccolin.com/2008/10/03/introducing-new-people-to-old-things/' displayText='share'></span>

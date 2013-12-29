@@ -42,4 +42,3 @@ I can make you see
 
 *Naturally, there&#8217;d be some differentiation between chorus, verses, and breaks. I don&#8217;t think my notes every got that far. It was really interesting to find this. And pretty exciting to tear up the paper it was written on.*
 
-<span class='st\_facebook\_buttons' st\_title='Believe Me' st\_url='http://mccolin.com/2008/01/17/believe-me/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Believe Me' st\_url='http://mccolin.com/2008/01/17/believe-me/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Believe Me' st\_url='http://mccolin.com/2008/01/17/believe-me/' displayText='share'></span>

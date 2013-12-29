@@ -85,7 +85,7 @@ The shocking and exciting conclusion to this list is now up! Check out [Movies I
 
 I&#8217;ll be sure to follow later this week with more 2009 lists, so stay tuned.
 
-<span class='st\_facebook\_buttons' st\_title='Movies I Missed from 2009, Part One' st\_url='http://mccolin.com/2010/02/01/movies-i-missed-from-2009-part-one/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Movies I Missed from 2009, Part One' st\_url='http://mccolin.com/2010/02/01/movies-i-missed-from-2009-part-one/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Movies I Missed from 2009, Part One' st\_url='http://mccolin.com/2010/02/01/movies-i-missed-from-2009-part-one/' displayText='share'></span>
+
 
  [1]: http://en.wikipedia.org/wiki/Coraline_(film)
  [2]: http://en.wikipedia.org/wiki/Fanboys_(2009_film)

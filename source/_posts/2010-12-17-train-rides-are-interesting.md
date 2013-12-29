@@ -15,4 +15,3 @@ Too many people. Loud ticket checkers. Not as fast moving as you&#8217;d think. 
 
 Next time Bolt bus?
 
-<span class='st\_facebook\_buttons' st\_title='Train rides are interesting' st\_url='http://mccolin.com/2010/12/17/train-rides-are-interesting/' displayText='share'></span><span class='st\_twitter\_buttons' st\_title='Train rides are interesting' st\_url='http://mccolin.com/2010/12/17/train-rides-are-interesting/' displayText='share'></span><span class='st\_gbuzz\_buttons' st\_title='Train rides are interesting' st\_url='http://mccolin.com/2010/12/17/train-rides-are-interesting/' displayText='share'></span>
