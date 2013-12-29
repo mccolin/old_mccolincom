@@ -2,7 +2,6 @@
 layout: post
 title: "Breathing New Life Into an Old Thing"
 date: 2013-12-28 16:59
-comments: true
 categories: 
   - Meta
 ---

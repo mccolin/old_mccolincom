@@ -66,8 +66,8 @@ default_asides: [asides/recent_posts.html]
 #  Sharing and Comments   #
 # ----------------------- #
 
-allow_sharing: true
-allow_comments: true
+allow_sharing: false
+allow_comments: false
 
 
 # ----------------------- #
