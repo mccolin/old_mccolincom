@@ -21,7 +21,8 @@ function setPoweredBy(powBy) {
       "Cliff Lee's repeatable arm slot",
       "prodigious snacking on Kit Kat bars",
       "any and all types of potatoes",
-      "the WaWa Gobbler Shorti, whenever seasonally attainable"
+      "the WaWa Gobbler Shorti, whenever seasonally attainable",
+      "Bennett smiles and poopy pants"
     ];
     powBy = powers[ Math.floor(Math.random() * powers.length) ];
   }

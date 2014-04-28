@@ -2,7 +2,7 @@
 layout: page
 title: "About Colin McCloskey"
 subtitle: "I get all personal and into myself for your benefit"
-date: 2013-10-18 18:10
+date: 2014-04-28 14:45
 
 allow_sharing: false
 allow_comments: false
@@ -21,9 +21,10 @@ State. In addition to me, there are lots of amazing things from my home state, l
 and [Danny freakin' DeVito][devito]! 
 
 I am an only child, which is every bit as great as you thought it'd be when you tried to wish away your
-siblings as a kid, but carries with it a lot of additional responsibility and it means I had a lot of
-gently-used board games in my closet, because there weren't brothers or sisters around to play with.
-Oh! And if you let your parents down, there's nobody else to pick up the slack.
+siblings as a kid, but carries with it a lot of additional responsibility. It also means I had a lot of
+gently-used board games in my closet growing up, because there weren't brothers or sisters around to
+play with. Oh! And the minute detail that if you let your parents down, there's nobody else to pick up
+the slack.
 
 **Growing Up...** I was a excellent student in school and I played outside a lot. From a young age, I
 created wildly over-detailed sports and game leagues with elaborate rules, rankings, and stats. This 
@@ -65,16 +66,15 @@ be and taking the steps I want to take in life.
 
 For those with deeper interest, you might enjoy this list of curious facts about me:
  
- - I am taller than your average dude, but nothing majorly exciting.
- - I broke my left leg jumping out of a swing (and sticking the landing) about three weeks before going to college.
+ - I am taller than your average dude, but not so much that you'd immediately notice.
+ - I broke my left leg jumping out of a swing (and sticking the landing) about three weeks before going to college. Then, during the first week of college I lost a "crutch race" time trial to someone who'd never used crutches before in their life.
  - When I switched school districts as a kid, I didn't get into the gifted and talented program like in my old town on the first try. I'm convinced this is because I said the word "migrate" had something to do with rocks instead of moving, relocation, or birds. It irks me to this day.
  - I had long hair and a ponytail (down to mid back) from fifth through tenth grade. Though it was healthy and by no means a "rat tail," this mullet-in-disguise was probably the worst style decision of my life.
- - I am not confident that I know how to use a rotary phone. Or operate storm windows.
- - My favorite foods are all starches. Or covered in cheese. Mmmm...
- - My favorite color was green for my entire childhood and young adult life. Then I switched to orange for no real, discernible reason sometime in college and haven't  looked back.
+ - In my marriage, I'm the cook and prepare four out of five of our at-home meals. This fact would shock the me from ten or even five years ago.
+ - My favorite color was green for my entire childhood and young adult life. Then I switched to orange for no real, discernible reason sometime in college and haven't looked back.
  - I use a special, weird voice when I talk to dogs. Or when a dog walks by on the street. Or when I see a dog. I think they like it.
  - I still think that drawing things out on paper or a dry-erase board first is the best way to visualize it. Web designs. Database architectures. Furniture layouts. Chinese food orders. Anything. It helps me think.
- - The books I've been reading lately are 90% pictures, but my all-time favorite books are probably, in no particular order, To Kill A Mockingbird, The Stranger, In Cold Blood, One Flew Over the Cuckoo's Nest, and The Lottery.
+ - The books I've been reading lately are 90% pictures, but my all-time favorite books are probably, in no particular order, To Kill A Mockingbird, The Stranger, In Cold Blood, A Confederacy of Dunces, and The Lottery.
  - I am terrified of (and fascinated by) zombies, sharks, and snakes.
  - I play bass guitar. Sometimes in a band called Monica's Ghost.
  - My mom calls me "bunyip" as a pet name. It's not clear to me whether or not she knew that a Bunyip was a [mythological Australian monster](http://en.wikipedia.org/wiki/Bunyip) at the time she started calling me that.

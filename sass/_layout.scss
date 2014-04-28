@@ -73,6 +73,7 @@ a:hover {
 }
 
 #mast .site-title, #mast .site-subtitle {
+  cursor: pointer;
   @media #{$large-media} {
     display: none;
   }
@@ -91,6 +92,21 @@ a:hover {
   }
 }
 
+
+#mast a#toplink-hitarea {
+  text-decoration: none !important;
+  cursor: pointer;
+  @media #{$large-media} {
+    position: absolute;
+    left: 65px;
+    top: 50px;
+    width: 225px;
+    height: 400px;
+  }
+  @media #{$small-media} {
+    display: none;
+  }
+}
 
 #major-nav {
   font-family: Rokkitt;
