@@ -32,6 +32,7 @@
   <header id="mast">
     <h1 class="site-title">This is Colin McCloskey</h1>
 <h2 class="site-subtitle">Bearded, computery nerd person and excellent dude.</h2>
+<a href="/" id="toplink-hitarea">&nbsp;</a>
 <nav id="major-nav">
   <a href="/"><i class="fa fa-th-list"></i> Blog</a>
   <a href="/about/"><i class="fa fa-male"></i> About</a>
@@ -111,7 +112,7 @@
 <img src="//www.gravatar.com/avatar/082dc3b9eeb0391f452e5cd88ddb5884?s=64" alt="Colin McCloskey" style="width:64px;" class="profile-pic" /> <br/>
 
 
-<p id="copyright">&copy; 1983-2013 Colin McCloskey</p>
+<p id="copyright">&copy; 1983-2014 Colin McCloskey</p>
 
 <p id="powered-by">
   Colin McCloskey is powered by <span data-powered-by="colin">prodigious snacking on Kit Kat bars</span>.
@@ -154,6 +155,13 @@
   <!-- JS Invocation -->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
   <script src="/javascripts/powered-by.js"></script>
+  <script type="text/javascript">
+    $(function(){
+      $("#mast .site-title").on("click", function(e){
+        window.location.href = $("a#toplink-hitarea").prop("href");
+      });
+    });
+  </script>
 
 </body>
 </html>

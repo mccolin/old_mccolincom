@@ -32,6 +32,7 @@
   <header id="mast">
     <h1 class="site-title">This is Colin McCloskey</h1>
 <h2 class="site-subtitle">Bearded, computery nerd person and excellent dude.</h2>
+<a href="/" id="toplink-hitarea">&nbsp;</a>
 <nav id="major-nav">
   <a href="/"><i class="fa fa-th-list"></i> Blog</a>
   <a href="/about/"><i class="fa fa-male"></i> About</a>
@@ -58,9 +59,10 @@ State. In addition to me, there are lots of amazing things from my home state, l
 and <a href="http://en.wikipedia.org/wiki/Danny_DeVito">Danny freakin&#8217; DeVito</a>!</p>
 
 <p>I am an only child, which is every bit as great as you thought it&rsquo;d be when you tried to wish away your
-siblings as a kid, but carries with it a lot of additional responsibility and it means I had a lot of
-gently-used board games in my closet, because there weren&rsquo;t brothers or sisters around to play with.
-Oh! And if you let your parents down, there&rsquo;s nobody else to pick up the slack.</p>
+siblings as a kid, but carries with it a lot of additional responsibility. It also means I had a lot of
+gently-used board games in my closet growing up, because there weren&rsquo;t brothers or sisters around to
+play with. Oh! And the minute detail that if you let your parents down, there&rsquo;s nobody else to pick up
+the slack.</p>
 
 <p><strong>Growing Up&hellip;</strong> I was a excellent student in school and I played outside a lot. From a young age, I
 created wildly over-detailed sports and game leagues with elaborate rules, rankings, and stats. This
@@ -103,16 +105,15 @@ be and taking the steps I want to take in life.</p>
 <p>For those with deeper interest, you might enjoy this list of curious facts about me:</p>
 
 <ul>
-<li>I am taller than your average dude, but nothing majorly exciting.</li>
-<li>I broke my left leg jumping out of a swing (and sticking the landing) about three weeks before going to college.</li>
+<li>I am taller than your average dude, but not so much that you&rsquo;d immediately notice.</li>
+<li>I broke my left leg jumping out of a swing (and sticking the landing) about three weeks before going to college. Then, during the first week of college I lost a &ldquo;crutch race&rdquo; time trial to someone who&rsquo;d never used crutches before in their life.</li>
 <li>When I switched school districts as a kid, I didn&rsquo;t get into the gifted and talented program like in my old town on the first try. I&rsquo;m convinced this is because I said the word &ldquo;migrate&rdquo; had something to do with rocks instead of moving, relocation, or birds. It irks me to this day.</li>
 <li>I had long hair and a ponytail (down to mid back) from fifth through tenth grade. Though it was healthy and by no means a &ldquo;rat tail,&rdquo; this mullet-in-disguise was probably the worst style decision of my life.</li>
-<li>I am not confident that I know how to use a rotary phone. Or operate storm windows.</li>
-<li>My favorite foods are all starches. Or covered in cheese. Mmmm&hellip;</li>
-<li>My favorite color was green for my entire childhood and young adult life. Then I switched to orange for no real, discernible reason sometime in college and haven&rsquo;t  looked back.</li>
+<li>In my marriage, I&rsquo;m the cook and prepare four out of five of our at-home meals. This fact would shock the me from ten or even five years ago.</li>
+<li>My favorite color was green for my entire childhood and young adult life. Then I switched to orange for no real, discernible reason sometime in college and haven&rsquo;t looked back.</li>
 <li>I use a special, weird voice when I talk to dogs. Or when a dog walks by on the street. Or when I see a dog. I think they like it.</li>
 <li>I still think that drawing things out on paper or a dry-erase board first is the best way to visualize it. Web designs. Database architectures. Furniture layouts. Chinese food orders. Anything. It helps me think.</li>
-<li>The books I&rsquo;ve been reading lately are 90% pictures, but my all-time favorite books are probably, in no particular order, To Kill A Mockingbird, The Stranger, In Cold Blood, One Flew Over the Cuckoo&rsquo;s Nest, and The Lottery.</li>
+<li>The books I&rsquo;ve been reading lately are 90% pictures, but my all-time favorite books are probably, in no particular order, To Kill A Mockingbird, The Stranger, In Cold Blood, A Confederacy of Dunces, and The Lottery.</li>
 <li>I am terrified of (and fascinated by) zombies, sharks, and snakes.</li>
 <li>I play bass guitar. Sometimes in a band called Monica&rsquo;s Ghost.</li>
 <li>My mom calls me &ldquo;bunyip&rdquo; as a pet name. It&rsquo;s not clear to me whether or not she knew that a Bunyip was a <a href="http://en.wikipedia.org/wiki/Bunyip">mythological Australian monster</a> at the time she started calling me that.</li>
@@ -154,7 +155,7 @@ subscribe to this site in your news reader, there&rsquo;s no reason to fear you&
 <img src="//www.gravatar.com/avatar/082dc3b9eeb0391f452e5cd88ddb5884?s=64" alt="Colin McCloskey" style="width:64px;" class="profile-pic" /> <br/>
 
 
-<p id="copyright">&copy; 1983-2013 Colin McCloskey</p>
+<p id="copyright">&copy; 1983-2014 Colin McCloskey</p>
 
 <p id="powered-by">
   Colin McCloskey is powered by <span data-powered-by="colin">prodigious snacking on Kit Kat bars</span>.
@@ -197,6 +198,13 @@ subscribe to this site in your news reader, there&rsquo;s no reason to fear you&
   <!-- JS Invocation -->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
   <script src="/javascripts/powered-by.js"></script>
+  <script type="text/javascript">
+    $(function(){
+      $("#mast .site-title").on("click", function(e){
+        window.location.href = $("a#toplink-hitarea").prop("href");
+      });
+    });
+  </script>
 
 </body>
 </html>

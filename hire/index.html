@@ -32,6 +32,7 @@
   <header id="mast">
     <h1 class="site-title">This is Colin McCloskey</h1>
 <h2 class="site-subtitle">Bearded, computery nerd person and excellent dude.</h2>
+<a href="/" id="toplink-hitarea">&nbsp;</a>
 <nav id="major-nav">
   <a href="/"><i class="fa fa-th-list"></i> Blog</a>
   <a href="/about/"><i class="fa fa-male"></i> About</a>
@@ -47,7 +48,7 @@
   <div class="entry-content">
     <p>Colin McCloskey<br/>
 Philadelphia, PA<br/>
-<a href="&#x6d;&#x61;&#105;&#108;&#x74;&#111;&#58;&#106;&#x6f;&#98;&#115;&#50;&#x30;&#49;&#51;&#64;&#109;&#99;&#x63;&#111;&#108;&#105;&#110;&#x2e;&#99;&#111;&#109;">&#106;&#x6f;&#98;&#x73;&#50;&#x30;&#x31;&#x33;&#64;&#x6d;&#x63;&#x63;&#111;&#x6c;&#x69;&#x6e;&#x2e;&#99;&#x6f;&#x6d;</a></p>
+<a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#111;&#58;&#x6a;&#111;&#x62;&#x73;&#x32;&#48;&#x31;&#x34;&#64;&#109;&#x63;&#99;&#x6f;&#108;&#105;&#110;&#46;&#99;&#x6f;&#x6d;">&#x6a;&#x6f;&#98;&#115;&#x32;&#48;&#x31;&#52;&#x40;&#109;&#x63;&#99;&#111;&#108;&#105;&#110;&#46;&#x63;&#x6f;&#x6d;</a></p>
 
 <p>Agile, quick-thinking software engineer with experience in design, campaign strategy,
 and team leadership. Effective manager and self-starter with record of success in
@@ -162,7 +163,7 @@ Design Patterns, Project Management, Small Team Leadership, Client Management</p
 <img src="//www.gravatar.com/avatar/082dc3b9eeb0391f452e5cd88ddb5884?s=64" alt="Colin McCloskey" style="width:64px;" class="profile-pic" /> <br/>
 
 
-<p id="copyright">&copy; 1983-2013 Colin McCloskey</p>
+<p id="copyright">&copy; 1983-2014 Colin McCloskey</p>
 
 <p id="powered-by">
   Colin McCloskey is powered by <span data-powered-by="colin">prodigious snacking on Kit Kat bars</span>.
@@ -205,6 +206,13 @@ Design Patterns, Project Management, Small Team Leadership, Client Management</p
   <!-- JS Invocation -->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
   <script src="/javascripts/powered-by.js"></script>
+  <script type="text/javascript">
+    $(function(){
+      $("#mast .site-title").on("click", function(e){
+        window.location.href = $("a#toplink-hitarea").prop("href");
+      });
+    });
+  </script>
 
 </body>
 </html>
