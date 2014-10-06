@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Colin McCloskey For Hire"
-date: 2013-10-18 18:10
+date: 2014-10-06 12:01
 
 allow_sharing: false
 allow_comments: false
@@ -22,6 +22,9 @@ multiple stacks and platforms looking to unite people with common interests and 
  - Consulted to various clients as expert in social media and web strategy and development for small businesses, non-profits, and emerging organizations.
  - Managed full Ruby on Rails stack, front end design, project planning, and all client coordination.
 
+### Senior Software Enginner at [Emmerge](http://emmerge.com) <span class="joblocation">Remote/San Francisco, CA</span> <span class="jobdates">4/2013 &ndash; Present</span>
+ - Optimizing email for professionals in client services by helping them better organize their inbox, collaborate with colleagues, and manage todos.
+ - Leveraging tools including Meteor, node.js, JavaScript, and MongoDB to deliver intelligently-processed emails for many users on web, desktop, and mobile interfaces.
 
 ### Senior Software Engineer at [Involver](http://involver.com) <span class="joblocation">San Francisco, CA</span> <span class="jobdates">3/2010 &ndash; 6/2010</span>
  - Lead engineer in Custom Services division, specializing in software design and development, as well as product design and brand strategy for several major partners.
@@ -54,10 +57,10 @@ multiple stacks and platforms looking to unite people with common interests and 
 ## Skillset
 
 {% comment %}**Preferred**:{% endcomment %}
-Ruby, Ruby on Rails, JavaScript, jQuery, node.js, XHR/AJAX, HTML5, CSS3, iOS SDK, Amazon Web Services, EC2, RDS, 
-S3, Heroku, MySQL, PostgreSQL, Memcached, Social Integration (Facebook, Twitter, foursquare, Instagram, others),
-Responsive Design, Mobile Web, Git, GitHub, Subversion, nginx, Apache, Mac OS X, Linux, UNIX, virtualization, 
-Design Patterns, Project Management, Small Team Leadership, Client Management
+Ruby, Ruby on Rails, JavaScript, jQuery, node.js, Meteor, XHR/AJAX, HTML5, CSS3, iOS SDK, Amazon Web Services, 
+EC2, RDS, S3, Heroku, MySQL, PostgreSQL, MongoDB, Memcached, Social Integration (Facebook, Twitter, foursquare, 
+Instagram, others), Responsive Design, Mobile Web, Git, GitHub, Subversion, nginx, Apache, Mac OS X, Linux, 
+UNIX, virtualization, Design Patterns, Project Management, Small Team Leadership, Client Management
 {% comment %}
 **Also Capable**: C, C++, Java, JSP/Servlet, C#, .Net, PHP, Windows 
 {% endcomment %}
