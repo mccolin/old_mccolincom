@@ -22,7 +22,7 @@ multiple stacks and platforms looking to unite people with common interests and 
  - Consulted to various clients as expert in social media and web strategy and development for small businesses, non-profits, and emerging organizations.
  - Managed full Ruby on Rails stack, front end design, project planning, and all client coordination.
 
-### Senior Software Enginner at [Emmerge](http://emmerge.com) <span class="joblocation">Remote/San Francisco, CA</span> <span class="jobdates">4/2013 &ndash; Present</span>
+### Senior Software Engineer at [Emmerge](http://emmerge.com) <span class="joblocation">Remote/San Francisco, CA</span> <span class="jobdates">4/2013 &ndash; Present</span>
  - Optimizing email for professionals in client services by helping them better organize their inbox, collaborate with colleagues, and manage todos.
  - Leveraging tools including Meteor, node.js, JavaScript, and MongoDB to deliver intelligently-processed emails for many users on web, desktop, and mobile interfaces.
 
